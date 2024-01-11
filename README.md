@@ -4,8 +4,6 @@
 
 Customer Behaviour analysis using Python
 
-https://colab.research.google.com/drive/1pRgZ5uSrxDi_P_aWP4f3Bc4W39mdrS58?usp=sharing
-
 Customer Behavior Analysis is a process that involves examining and understanding how customers interact with a business, product, or service. This analysis helps organizations make informed decisions, tailor their strategies, and enhance customer experiences.
 
 # Project Components
@@ -38,3 +36,5 @@ We've discovered some interesting trends. It turns out that individuals tend to 
 Moreover, there are notable gender differences, with men exhibiting a higher purchase rate and constituting the majority of online browsers.
 Mobile devices, especially phones, play a significant role in online browsing, capturing the most time spent exploring products.
 Regionally, Delhi leads in actual purchases, while Kolkata stands out for the duration people spend browsing. Interestingly, age also influences online behavior, as young women aged 18 tend to browse and purchase the most, while for men, it's 29-year-olds browsing and 18, 21, and 22-year-olds making the most purchases. Understanding these patterns can assist businesses in tailoring their online shopping experiences to better meet the preferences and habits of their customers.
+For a detailed exploration of the project and its insights, you can check the Google Colab notebook 
+[here](https://colab.research.google.com/drive/1pRgZ5uSrxDi_P_aWP4f3Bc4W39mdrS58?usp=sharing).
